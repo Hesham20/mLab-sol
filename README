@@ -1,5 +1,5 @@
 To run the program, please use the following Linux command:
 $ ./sol.py test.json
 
-if it didn't work, you migh to need to make the script executable by running:
+If it didn't work, you might need to make the script executable by running:
 $ chmod +x sol.py
