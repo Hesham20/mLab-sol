@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# change to the shebang to your machine's shebang to make the script executable, if necessary...
 
 import sys
 import json # to load the json file
